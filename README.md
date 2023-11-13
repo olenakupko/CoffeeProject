@@ -1,4 +1,6 @@
 # CoffeeProject
+	-inspired by Mo Chen
+ 	https://github.com/mochen862
 ## Coffee Sales Dashboard.
 ### Business issue
 Stakeholders want a bird's view on historical coffee sales to explore and compare different coffee types' sales trends. Additional requirements are to have a sales breakdown by country and top 5 customers.
@@ -17,6 +19,7 @@ This sample data contains representative retail data from a fictional coffee cha
 	- Extending data model with extra columns
 	- Date, Number formatting
  	- Profiling visual and with functions
+	- Missing values handling
 
 ## Data processing
 - Functions: TEXT, XLOOKUP, INDEX, MATCH, IF, COUNTA, CONCAT
